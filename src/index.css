@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    overflow-x: hidden;
+}
+.container{
+    max-width: 1280px;
+    padding: 0 20px;
+    margin: 0 auto;
+    width: 100%;
+}
+button{
+    cursor: pointer;
+}
+input{
+    outline: none;
+}
+a{
+    text-decoration: none;
+}
