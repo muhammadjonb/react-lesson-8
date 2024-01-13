@@ -6,6 +6,7 @@
 }
 body{
     overflow-x: hidden;
+    background-color: rgb(26, 26, 46);
 }
 .container{
     max-width: 1280px;
@@ -15,6 +16,7 @@ body{
 }
 button{
     cursor: pointer;
+    transition: all 0.3s ease;
 }
 input{
     outline: none;
